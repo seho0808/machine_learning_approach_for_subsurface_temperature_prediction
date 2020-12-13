@@ -34,17 +34,17 @@ of less importance in terms of code documentation.
 
 Figure 1 - 0305_Compare_New_and_Old_LONG_LAT.ipynb
 
-Figure 5 - _Organized Tests.ipynb*
+Figure 6 - _Organized Tests.ipynb*
 *This is a legacy version of 0310_HPTuning+ExcelMetric+NewWellMetric.ipynb.
 Therefore, you should ignore everyting except the importance plot.
 
-Figure 6 - 0316_Q_map.ipynb
+Figure 7 - 0316_Q_map.ipynb
 
-Figure 7 - 0314_depth_maps.ipynb & 0315_map_excel_data.ipynb
+Figure 8 - 0314_depth_maps.ipynb & 0315_map_excel_data.ipynb
 
-Figure 10 - 0306_Comparing Well Prediction.ipynb
+Figure 11 - 0306_Comparing Well Prediction.ipynb
 
-Figure 11 - 0316_Q_map.ipnyb
+Figure 12 - 0316_Q_map.ipnyb
 
 ----Appendix----
 Cross Validation, Model Comparison, and Hyperparameter tuning for
