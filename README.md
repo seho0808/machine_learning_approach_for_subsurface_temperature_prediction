@@ -44,12 +44,20 @@ This file loads the saved pickle xgb model. You need to generate the pkl file fi
 There is one that is already generated, xgbSaved.pkl.
 The link to download xgbSaved.pkl is, https://drive.google.com/file/d/1XJpMLYp6bk-VFWVAf69CTh3vcDds6OOm/view?usp=sharing.
 
-### 
+### Save Pickle File from Models.ipynb
+This saves xgb pickle file after training. It doesn't work for dnn as our api
+seem to crash when pickle is applied after training process. Hence, only
+xgb model is provided as a saved version. You can still generate dnn model in a few minutes
+by running our code.
 
+### fixing_clean_well_data.ipynb
+We previously used an incorrect method to correct the new well data. After
+a major change in paper, we rectify the wrong method with a correct formula. The
+data engineering part of that process is inside this file.
 
-
-
-
+### _Organized Tests.ipynb
+This is a legacy version of 0310_HPTuning+ExcelMetric+NewWellMetric.ipynb. 
+Only the importance plot matters in this file for use.
 
 ## Prerequisite Datasets (You have to download these first)
 1. AASG Dataset - This file is used throughout the codes and contains the well data throughout North-Eastern USA.
