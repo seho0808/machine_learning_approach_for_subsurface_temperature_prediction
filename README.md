@@ -86,3 +86,6 @@ Figure 11 - Final Metrics and Graphs.ipynb
 
 Figure 12 - 0316_Q_map.ipnyb
 
+## Video Link
+We also provide a video instruction about how to access data and run the models.
+https://youtu.be/4Gp_sEUGNi8
