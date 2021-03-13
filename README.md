@@ -65,7 +65,7 @@ Only the importance plot matters in this file for use.
 => Click Download next to ThermalQualityAnalysisThermalModelDataFilesStateWellTemperatureDatabases.zip
 => If you unzip, there should be AASG_Thermed_AllThicksAndConds.xlsx
 
-2. Well Dataset - This file is cleaned-up version of new well data (2016~) and used in some of the files.
+2. New Well Dataset - This file is cleaned-up version of new well data (2016~) and used in some of the files.
 => Go to https://drive.google.com/file/d/1sm0CdmvixpEOpWiGkrh3rTVb7nz0r8pH/view?usp=sharing
 
 ## Document Figures
