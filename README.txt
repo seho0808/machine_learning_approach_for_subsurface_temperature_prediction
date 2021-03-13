@@ -1,11 +1,11 @@
-----What is this README and REPO?---
+## What is this README and REPO?
 This repository provides python codes to reproduce the plots and tables from 
 the paper Exploratory Analysis of Machine Learning Methods in Geothermal Energy Research.
 The file formats are in Jupyter Notebook IDE format (.ipnyb).
 If you wish to obtain a .py version, please email to seho0808@vt.edu.
 README is in two formats: .pdf and .txt. They contain equivalent information.
 
-----Prerequisite Datasets----
+## Prerequisite Datasets
 AASG Dataset - This file is used throughout the codes and contains the well data throughout North-Eastern USA.
 => Go to https://gdr.openei.org/submissions/638 
 => Click Download next to ThermalQualityAnalysisThermalModelDataFilesStateWellTemperatureDatabases.zip
@@ -28,7 +28,7 @@ but just say
 
 df2 = pd.read_csv('clean_new_well_data.csv')
 
-----Documentation----
+## Document Figures
 Many of the figures and tables are omitted as they are not produced by ourselves, or
 of less importance in terms of code documentation.
 
