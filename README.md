@@ -82,7 +82,7 @@ Figure 7 - 0316_Q_map.ipynb
 
 Figure 8 - 0314_depth_maps.ipynb & 0315_map_excel_data.ipynb
 
-Figure 11 - 0306_Comparing Well Prediction.ipynb
+Figure 11 - Final Metrics and Graphs.ipynb
 
 Figure 12 - 0316_Q_map.ipnyb
 
