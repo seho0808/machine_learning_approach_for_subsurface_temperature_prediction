@@ -6,7 +6,7 @@ If you wish to obtain a .py version, please email to seho0808@vt.edu.
 
 ## How to use the repo?
 
-First, there is a video describing how to reproduce the results. Link: ~
+First, there is a video describing how to reproduce the results. Link: https://www.youtube.com/watch?v=4Gp_sEUGNi8&t=90s
 To reiterate what the video was talking about,
 
 1. download the AASG Dataset and clean_new_well_data_fixed.csv and optim_result.out files.
