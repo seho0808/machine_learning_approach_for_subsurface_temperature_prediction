@@ -93,15 +93,18 @@ https://youtu.be/4Gp_sEUGNi8
 ## Tunned Hyper-parameters for all models
 Ridge 
   alpha:	10
+  
 RF
   Max_depth:	10
   n_estimators: 50
+  
 XGB
   alpha:	1
   lambda:	10
   Max_depth:	10
   n_estimators=100
   gamma:	0.1
+  
 DNN
   structure	50-50-1
   optimizer	ADAM
