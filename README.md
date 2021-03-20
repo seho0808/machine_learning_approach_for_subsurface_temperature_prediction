@@ -42,18 +42,10 @@ the file as well.
 ### HP_Tuning.ipynb
 This file has the code that tunes all the models with appropriate hyperparameters.
 Also contains saving the pickle files as .sav files.
-The pickle files generated here can be downloaded from: 
+The pickle files generated here can be downloaded from here:
 
-### Load Saved Pickle Models.ipynb
-This file loads the saved pickle xgb model. You need to generate the pkl file first.
-There is one that is already generated, xgbSaved.pkl.
-The link to download xgbSaved.pkl is, https://drive.google.com/file/d/1XJpMLYp6bk-VFWVAf69CTh3vcDds6OOm/view?usp=sharing.
-
-### Save Pickle File from Models.ipynb
-This saves xgb pickle file after training. It doesn't work for dnn as our api
-seem to crash when pickle is applied after training process. Hence, only
-xgb model is provided as a saved version. You can still generate dnn model in a few minutes
-by running our code.
+finalized_model_RF.sav: https://drive.google.com/file/d/130C3hOhBRKxC-CZ_QTQpTMcQw6RuwCsc/view?usp=sharing
+finalized_model_XGB.sav: https://drive.google.com/file/d/1NY8Z-Ukrhz6gS-pkKoW7RuK6Z2_5j2XW/view?usp=sharing
 
 ### fixing_clean_well_data.ipynb
 We previously used an incorrect method to correct the new well data. After
