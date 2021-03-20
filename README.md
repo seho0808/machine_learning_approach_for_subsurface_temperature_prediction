@@ -22,7 +22,7 @@ This file is a legacy file for "Final Metrics and Graphs.ipynb" file. Hence, you
 It was kept to show the last version before the major change.
 
 ### 0310_HPTuning+ExcelMetric+NewWellMetric.ipynb
-This file has the code that tunes all the models with appropriate hyperparameters.
+Legacy version for "HP_Tuning.ipynb" file. It was kept to show the last version before the major change.
 
 ### 0314_depth_maps.ipynb
 Comparing algorithms for the interpolation of the heat map.
@@ -38,6 +38,11 @@ In 0310_HPTuning+ExcelMetric+NewWellMetric.ipynb, we tune the hyperparameters of
 learning models. In Final Metrics and Graphs.ipynb, the tuned hyperparameters are actually used
 to test for the test data(which are the new well data). Then, the metrics and graphs are listed inside
 the file as well.
+
+### HP_Tuning.ipynb
+This file has the code that tunes all the models with appropriate hyperparameters.
+Also contains saving the pickle files as .sav files.
+The pickle files generated here can be downloaded from: 
 
 ### Load Saved Pickle Models.ipynb
 This file loads the saved pickle xgb model. You need to generate the pkl file first.
