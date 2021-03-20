@@ -75,13 +75,13 @@ Figure 6 - _Organized Tests.ipynb*
 *This is a legacy version of 0310_HPTuning+ExcelMetric+NewWellMetric.ipynb.
 Therefore, you should ignore everyting except the importance plot.
 
-Figure 7 - 0316_Q_map.ipynb
+Figure 7 - HP_Tuning.ipynb
 
-Figure 8 - 0314_depth_maps.ipynb & 0315_map_excel_data.ipynb
+Figure 8 - Figure_8_depth_maps.ipynb
 
-Figure 11 - Final Metrics and Graphs.ipynb
+Figure 11 - Figure_11_Comparing_Well_Prediction.ipynb
 
-Figure 12 - 0316_Q_map.ipnyb
+Figure 12 - Figure_12_Q_map.ipynb
 
 ## Video Link
 We also provide a video instruction about how to access data and run the models.
