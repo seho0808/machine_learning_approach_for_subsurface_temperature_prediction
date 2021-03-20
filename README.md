@@ -17,27 +17,19 @@ To reiterate what the video was talking about,
 ### 0305_Compare_New_and_Old_LONG_LAT.ipynb
 This file compares the latitude and longitude information of the datasets.
 
-### 0306_Comparing Well Prediction.ipynb
-This file is a legacy file for "Final Metrics and Graphs.ipynb" file. Hence, you can ignore it.
-It was kept to show the last version before the major change.
+### Figure_11_Comparing_Well_Prediction.ipynb
+This file has two legacy files in the repository. This one is the most current one.
+In "0310_HPTuning+ExcelMetric+NewWellMetric.ipynb", we tune the hyperparameters of the machine
+learning models. In "Final Metrics and Graphs.ipynb", the tuned hyperparameters are actually used
+to test for the test data(which are the new well data). In "Figure_11_Comparing_well_prediction.ipynb",
+we had to change the models' training and testing process to K-fold which lead us to regenerate the plots and data. 
+*The metrics and graphs are listed inside the file as well.
 
-### 0310_HPTuning+ExcelMetric+NewWellMetric.ipynb
-Legacy version for "HP_Tuning.ipynb" file. It was kept to show the last version before the major change.
+### Figure_12_Q_map.ipynb
+Regenerated Q map with retuned XGBoost from the legacy file "0316_Q_map.ipynb".
 
-### 0314_depth_maps.ipynb
-Comparing algorithms for the interpolation of the heat map.
-
-### 0315_map_excel_data.ipynb
-Tuning the KNN interpolation method.
-
-### 0316_Q_map.ipynb
-Q map with XGBoost
-
-### Final Metrics and Graphs.ipynb
-In 0310_HPTuning+ExcelMetric+NewWellMetric.ipynb, we tune the hyperparameters of the machine
-learning models. In Final Metrics and Graphs.ipynb, the tuned hyperparameters are actually used
-to test for the test data(which are the new well data). Then, the metrics and graphs are listed inside
-the file as well.
+### Figure_8_depth_maps.ipynb
+Regenerated heat maps per depth from the legacy file "0314_depth_maps.ipynb".
 
 ### HP_Tuning.ipynb
 This file has the code that tunes all the models with appropriate hyperparameters.
@@ -53,8 +45,29 @@ a major change in paper, we rectify the wrong method with a correct formula. The
 data engineering part of that process is inside this file.
 
 ### _Organized Tests.ipynb
-This is a legacy version of 0310_HPTuning+ExcelMetric+NewWellMetric.ipynb. 
+This is a legacy version of "0310_HPTuning+ExcelMetric+NewWellMetric.ipynb". 
 Only the importance plot matters in this file for use.
+
+## Legacy Files
+
+### 0306_Comparing Well Prediction.ipynb
+This file is a legacy file for "Final Metrics and Graphs.ipynb" file. Hence, you can ignore it.
+It was kept to show the last version before the major change.
+
+### 0310_HPTuning+ExcelMetric+NewWellMetric.ipynb
+Legacy version for "HP_Tuning.ipynb" file. It was kept to show the last version before the major change.
+
+### 0314_depth_maps.ipynb
+Comparing algorithms for the interpolation of the heat map. Legacy file for "Figure_8_depth_maps.ipynb".
+
+### 0315_map_excel_data.ipynb
+Tuning the KNN interpolation method.
+
+### 0316_Q_map.ipynb
+Q map with XGBoost. Legacy file for "Figure_12_Q_map.ipynb".
+
+### Final Metrics and Graphs.ipynb
+Legacy file for "Figure_11_Comparing_Well_Prediction.ipynb".
 
 ## Prerequisite Datasets (You have to download these first)
 1. AASG Dataset - This file is used throughout the codes and contains the well data throughout North-Eastern USA.
