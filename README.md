@@ -45,9 +45,13 @@ We previously used an incorrect method to correct the new well data. After
 a major change in paper, we rectify the wrong method with a correct formula. The
 data engineering part of that process is inside this file.
 
+### Table_5_Q_Prediction.ipnyb
+Gradient prediction comparison for all models. Used in table 5 of the original paper.
+
 ### _Organized Tests.ipynb
 This is a legacy version of "0310_HPTuning+ExcelMetric+NewWellMetric.ipynb". 
 Only the importance plot matters in this file for use.
+
 
 ## Legacy Files
 
