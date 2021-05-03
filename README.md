@@ -38,6 +38,7 @@ Also contains saving the pickle files as .sav files.
 The pickle files generated here can be downloaded from here:
 
 finalized_model_RF.sav: https://drive.google.com/file/d/130C3hOhBRKxC-CZ_QTQpTMcQw6RuwCsc/view?usp=sharing
+
 finalized_model_XGB.sav: https://drive.google.com/file/d/1NY8Z-Ukrhz6gS-pkKoW7RuK6Z2_5j2XW/view?usp=sharing
 
 ### Saving Pickles for Ridge and Keras.ipnyb
