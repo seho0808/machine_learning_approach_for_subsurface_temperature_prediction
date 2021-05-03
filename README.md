@@ -45,6 +45,7 @@ This file is saves Ridge and Keras pickle files.
 Result files are available at:
 
 finalized_model_DNN.zip: https://drive.google.com/file/d/1x5wHJkuPohdscIif7Sk1QI_vSmPWyEX8/view?usp=sharing
+
 finalized_model_ridge.sav: https://drive.google.com/file/d/1ZzKDvbT6I2422Rg886c16ZUDyHAATrYd/view?usp=sharing
 
 ### fixing_clean_well_data.ipynb
