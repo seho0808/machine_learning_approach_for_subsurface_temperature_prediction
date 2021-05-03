@@ -40,6 +40,12 @@ The pickle files generated here can be downloaded from here:
 finalized_model_RF.sav: https://drive.google.com/file/d/130C3hOhBRKxC-CZ_QTQpTMcQw6RuwCsc/view?usp=sharing
 finalized_model_XGB.sav: https://drive.google.com/file/d/1NY8Z-Ukrhz6gS-pkKoW7RuK6Z2_5j2XW/view?usp=sharing
 
+### Saving Pickles for Ridge and Keras.ipnyb
+This file is saves Ridge and Keras pickle files.
+Result files are available at:
+finalized_model_DNN.zip: https://drive.google.com/file/d/1x5wHJkuPohdscIif7Sk1QI_vSmPWyEX8/view?usp=sharing
+finalized_model_ridge.sav: https://drive.google.com/file/d/1ZzKDvbT6I2422Rg886c16ZUDyHAATrYd/view?usp=sharing
+
 ### fixing_clean_well_data.ipynb
 We previously used an incorrect method to correct the new well data. After
 a major change in paper, we rectify the wrong method with a correct formula. The
