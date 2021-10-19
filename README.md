@@ -1,6 +1,7 @@
 ## What is this README and REPO?
 This repository provides python codes to reproduce the plots and tables from 
 the paper Exploratory Analysis of Machine Learning Methods in Geothermal Energy Research.
+(https://geothermal-energy-journal.springeropen.com/articles/10.1186/s40517-021-00200-4)
 The file formats are in Jupyter Notebook IDE format (.ipynb).
 If you wish to obtain a .py version, please email to seho0808@vt.edu.
 
